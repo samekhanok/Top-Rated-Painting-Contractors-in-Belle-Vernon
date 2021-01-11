@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Local, Approved and Licensed House Painters
 
-You can use the [editor on GitHub](https://github.com/samekhanok/Top-Rated-Painting-Contractors-in-Belle-Vernon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+wolfepackpainting searches for each client for a team of professional and insured painters in their local area, and verifies that the required skills of the team are tailored to the unique details of the job. Every painting contractor undergoes a background check and quality and experience control, so you will be in good hands. You will have a member of wolfepackpainting team of home painters available to assist you every step of the way, whether you need to make last minute changes or need help answering any questions about your paint job.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+wolfepackpainting simplifies the task of painting houses.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+No more juggling multiple quotes or wasting your precious time getting painters to explain the job! You can book online or schedule a consultation with a member of the wolfepackpainting customer support team to close the details of your paint job before scheduling it. Then pick the date that works best for you — and get ready to transform your home!
 
-```markdown
-Syntax highlighted code block
+Our guarantee for house painting
 
-# Header 1
-## Header 2
-### Header 3
+Their wolfepackpainting project is backed by a 100% satisfaction guarantee, as, like us, they are only satisfied when our customers are satisfied. Leave the paint job to the professionals. Let wolfepackpainting transform your home with a fresh coat of PPG paint.
 
-- Bulleted
-- List
+We have extensive experience doing interior and exterior painting jobs. We apply the best paint brands, as well as excellent materials and products on the market.
 
-1. Numbered
-2. List
+We carry out a serious and adaptable work to all kinds of needs, always giving quality and price according to the service provided. Our team of specialist applicators will always be ready to help you with all your questions and needs.
 
-**Bold** and _Italic_ and `Code` text
+We employ highly qualified labor to meet the demands of each client, so our team performs its work efficiently always within the established deadlines to offer you a quality service.
 
-[Link](url) and ![Image](src)
-```
+Call us or visit us for a free quote, we will always assist you in a friendly way and we will give you the best
+solution to your needs. We provide home service. For more information visit our Website on [Paint contractors near Belle Vernon Pa.](https://wolfepackpainting.com/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samekhanok/Top-Rated-Painting-Contractors-in-Belle-Vernon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out our  [contact support](https://wolfepackpainting.com/contact/) and we’ll help you sort it out.
